@@ -1,0 +1,14 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "k8s.io/client-go/1.4",
+			"repository": "https://github.com/kubernetes/client-go",
+			"vcs": "git",
+			"revision": "3a5b96cfd3d3ff1d53d979b4297c4f3b869aab09",
+			"branch": "HEAD",
+			"path": "/1.4",
+			"notests": true
+		}
+	]
+}
